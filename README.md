@@ -1,6 +1,6 @@
 # SimpleMaagDiagnose
 
-Expert system sederhana yang saya buat bertujuan untuk mendiagnosis penyakit maag. Diagnosis/hipotesis yang akan dikeluarkan antara lain:
+Expert system sederhana berbasis CLIP yang bertujuan untuk mendiagnosis penyakit maag dan beberapa komplikasinya. Diagnosis/hipotesis yang akan dikeluarkan antara lain:
   
   a.	Tidak terindikasi menderita maag.
   
